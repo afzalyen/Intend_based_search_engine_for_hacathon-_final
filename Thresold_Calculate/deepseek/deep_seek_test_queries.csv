@@ -1,0 +1,501 @@
+query,type
+best smartphone under 30000 taka,product_search
+iPhone 15 pro max price in Bangladesh,product_search
+Samsung Galaxy S23 Ultra case,product_search
+cheap gaming phones with good camera,product_search
+5G enabled phones under 25000,product_search
+latest Xiaomi models 2024,product_search
+waterproof mobile phones,product_search
+best battery life smartphones,product_search
+phones with AMOLED display,product_search
+dual SIM phones with expandable storage,product_search
+best camera phone for vlogging,product_search
+compact smartphones under 6 inches,product_search
+phones with 12GB RAM,product_search
+best phone for PUBG Mobile,product_search
+phones with wireless charging,product_search
+best value for money smartphones,product_search
+phones with best speakers,product_search
+rugged smartphones for construction workers,product_search
+best phone for elderly parents,product_search
+phones with best low-light photography,product_search
+how to make biryani,non_product_search
+current weather in Dhaka,non_product_search
+Bangladesh vs India cricket match schedule,non_product_search
+best universities in Bangladesh,non_product_search
+how to tie a tie,non_product_search
+latest Hollywood movies 2024,non_product_search
+Python programming tutorials,non_product_search
+home remedies for cold,non_product_search
+upcoming public holidays,non_product_search
+how to lose weight fast,non_product_search
+best tourist spots in Cox's Bazar,non_product_search
+how to write a CV,non_product_search
+latest Bangladesh election news,non_product_search
+how to invest in stock market,non_product_search
+best restaurants in Gulshan,non_product_search
+how to learn English quickly,non_product_search
+latest fashion trends 2024,non_product_search
+how to start a small business,non_product_search
+best books for entrepreneurs,non_product_search
+how to repair a bicycle,non_product_search
+phone that can make me invisible,kidding_queries
+smartphone that does my homework,kidding_queries
+mobile that can teleport me,kidding_queries
+phone with built-in pizza maker,kidding_queries
+device that reads my mind,kidding_queries
+phone that never needs charging,kidding_queries
+mobile with time travel feature,kidding_queries
+smartphone that can fly,kidding_queries
+phone that makes me famous instantly,kidding_queries
+device that can predict lottery numbers,kidding_queries
+phone with built-in girlfriend,kidding_queries
+mobile that cooks biryani automatically,kidding_queries
+smartphone that grants wishes,kidding_queries
+phone with infinite storage,kidding_queries
+device that makes me taller,kidding_queries
+mobile with built-in ATM,kidding_queries
+phone that can hack anything,kidding_queries
+smartphone with telekinesis,kidding_queries
+device that makes me rich overnight,kidding_queries
+phone that can solve all my problems,kidding_queries
+give me that damn phone now,aggressive_queries
+where the hell can I buy iPhone 15,aggressive_queries
+I need a phone you idiots,aggressive_queries
+show me phones or I'll leave,aggressive_queries
+why can't you find my perfect phone,aggressive_queries
+this service is crap find me a phone,aggressive_queries
+I hate all phones just show me something,aggressive_queries
+you better have good phones,aggressive_queries
+I'm tired of searching just give me a phone,aggressive_queries
+if you don't have good phones I'll sue,aggressive_queries
+where are the real phones not this junk,aggressive_queries
+I need a phone right now no excuses,aggressive_queries
+your search is terrible fix it,aggressive_queries
+I demand the best phone immediately,aggressive_queries
+this is your last chance to show good phones,aggressive_queries
+I'll break this site if I don't get phones,aggressive_queries
+why is finding a phone so difficult here,aggressive_queries
+you're wasting my time with bad results,aggressive_queries
+I need performance not your stupid ads,aggressive_queries
+either show me phones or shut down,aggressive_queries
+I'm a photographer who needs a phone with excellent camera for my wildlife photography in Sundarbans,storytelling_queries
+My grandmother needs a simple phone with big buttons because her eyesight is failing,storytelling_queries
+I'm a college student with limited budget but need a reliable phone for online classes and gaming,storytelling_queries
+"As a frequent traveler, I need a durable phone with global bands that can survive rough handling",storytelling_queries
+I'm a businessman who needs two phones - one for work with good security and one personal,storytelling_queries
+"My current phone battery dies by noon, I need something that lasts all day with heavy use",storytelling_queries
+"I dropped my phone in water last week, now I need a waterproof one because I'm clumsy",storytelling_queries
+"My kids keep breaking my phones, I need something indestructible with parental controls",storytelling_queries
+I'm a food blogger and need a phone with excellent camera and video for my cooking videos,storytelling_queries
+"As a doctor, I need a phone with long battery life and can withstand frequent sanitizing",storytelling_queries
+"I'm tired of carrying a separate camera, need phone with professional-grade photography",storytelling_queries
+"My current phone is too slow, need something fast for multitasking between work apps",storytelling_queries
+I'm a gamer and need a phone with high refresh rate and cooling system for long sessions,storytelling_queries
+I need a phone that can handle extreme temperatures for my work in construction sites,storytelling_queries
+"As a musician, I need phone with great audio quality for recording and listening",storytelling_queries
+I'm visually impaired and need phone with excellent accessibility features,storytelling_queries
+"My old phone's storage is full, need something with at least 256GB for all my photos",storytelling_queries
+I need a phone that can last 3 days on single charge for my remote village trips,storytelling_queries
+"As a social media manager, I need phone that can handle multiple accounts smoothly",storytelling_queries
+"I want a phone that stands out, maybe with unique color or customizable back panel",storytelling_queries
+phone,short_queries
+smartphone,short_queries
+mobile,short_queries
+best phone,short_queries
+cheap phone,short_queries
+5G phone,short_queries
+iPhone,short_queries
+Samsung,short_queries
+Xiaomi,short_queries
+Oppo,short_queries
+Vivo,short_queries
+Realme,short_queries
+OnePlus,short_queries
+gaming phone,short_queries
+camera phone,short_queries
+Android,short_queries
+iOS,short_queries
+new phone,short_queries
+good phone,short_queries
+phone price,short_queries
+"I'm looking for a high-end smartphone with all the latest features including 5G, AMOLED display, at least 12GB RAM, 256GB storage, excellent camera system with optical zoom, wireless charging, IP68 rating, and long battery life that can easily last a full day with heavy usage including gaming and video streaming",long_queries
+"Need recommendations for a budget smartphone under 20000 taka that has decent performance for everyday tasks, good battery life, acceptable camera quality for social media, and preferably from a reputable brand with good after-sales service in Bangladesh",long_queries
+"Searching for a rugged smartphone that can withstand extreme conditions including dust, water, and drops from height, suitable for construction site work, with good battery life and decent camera for documenting work progress, preferably with glove-friendly touchscreen",long_queries
+"Looking for the best possible camera phone available in the market right now regardless of price, with emphasis on low-light performance, optical zoom capabilities, and professional-grade video recording features for content creation",long_queries
+"I need a smartphone specifically optimized for gaming with high refresh rate display, powerful processor, good cooling system, large battery, and gaming-specific features like shoulder triggers or customizable performance modes",long_queries
+Samsung phone with good 5G under 15000,product_search
+Huawei,long_queries
+performance,long_queries
+design,short_queries
+Tecno phone with good performance under 40000,product_search
+storage,long_queries
+Xiaomi phone with good durability above 50000,product_search
+phone tips,non_product_search
+design,short_queries
+how to clean my phone,non_product_search
+phone that can cook food,kidding_queries
+I'm a professional looking for a phone that can manage my lifestyle,storytelling_queries
+Samsung phone with good performance under 40000,product_search
+Realme,short_queries
+phone that can cook food,kidding_queries
+iPhone phone with good durability under 15000,product_search
+Show me a good phone immediately,aggressive_queries
+Give me a cheap phone right away,aggressive_queries
+phone that can read minds,kidding_queries
+Xiaomi,long_queries
+best apps for Xiaomi,non_product_search
+I'm a photographer looking for a phone that can handle my workflow,storytelling_queries
+iPhone phone with good 5G under 20000,product_search
+Show me a cheap phone immediately,aggressive_queries
+Nokia phone with good battery under 10000,product_search
+I need a good phone right away,aggressive_queries
+phone that can predict future,kidding_queries
+I'm a student looking for a phone that can manage my hobbies,storytelling_queries
+gaming,long_queries
+phone that can do homework,kidding_queries
+I'm a professional looking for a phone that can support my lifestyle,storytelling_queries
+Nokia,short_queries
+Realme phone with good camera under 30000,product_search
+I'm a professional looking for a phone that can manage my hobbies,storytelling_queries
+Samsung phone with good camera under 15000,product_search
+Realme,long_queries
+phone that can cook food,kidding_queries
+Huawei,long_queries
+iPhone,long_queries
+phone that can predict future,kidding_queries
+OnePlus,long_queries
+durability,long_queries
+phone that can teleport,kidding_queries
+phone tips,non_product_search
+I need a cheap phone right away,aggressive_queries
+phone that can cook food,kidding_queries
+phone that can read minds,kidding_queries
+Tecno,long_queries
+phone tricks,non_product_search
+phone that can teleport,kidding_queries
+Nokia,long_queries
+I'm a gamer looking for a phone that can manage my workflow,storytelling_queries
+Samsung phone with good performance under 15000,product_search
+Nokia,short_queries
+I'm a photographer looking for a phone that can support my hobbies,storytelling_queries
+how to clean my phone,non_product_search
+I'm a professional looking for a phone that can manage my hobbies,storytelling_queries
+battery,long_queries
+best games for iPhone,non_product_search
+Realme,long_queries
+Oppo,short_queries
+Samsung,long_queries
+Show me a cheap phone now,aggressive_queries
+I'm a student looking for a phone that can manage my lifestyle,storytelling_queries
+best games for Vivo,non_product_search
+performance,long_queries
+I need a good phone now,aggressive_queries
+I'm a student looking for a phone that can manage my hobbies,storytelling_queries
+best themes for Nokia,non_product_search
+Xiaomi phone with good price under 25000,product_search
+phone that can cook food,kidding_queries
+iPhone,long_queries
+Nokia phone with good durability under 30000,product_search
+I'm a professional looking for a phone that can support my lifestyle,storytelling_queries
+phone that can read minds,kidding_queries
+I'm a gamer looking for a phone that can manage my hobbies,storytelling_queries
+I need the best phone immediately,aggressive_queries
+Oppo,long_queries
+best apps for Realme,non_product_search
+phone that can do homework,kidding_queries
+I'm a professional looking for a phone that can handle my workflow,storytelling_queries
+I'm a student looking for a phone that can manage my hobbies,storytelling_queries
+I'm a student looking for a phone that can manage my workflow,storytelling_queries
+best themes for Huawei,non_product_search
+I'm a student looking for a phone that can manage my hobbies,storytelling_queries
+Show me a cheap phone immediately,aggressive_queries
+Realme,short_queries
+phone that can predict future,kidding_queries
+Samsung,long_queries
+Oppo,long_queries
+Show me a good phone now,aggressive_queries
+display,short_queries
+battery,long_queries
+Huawei phone with good battery above 50000,product_search
+price,long_queries
+Xiaomi phone with good price above 50000,product_search
+how to clean my phone,non_product_search
+Realme phone with good storage under 40000,product_search
+phone that can cook food,kidding_queries
+Realme,long_queries
+phone that can read minds,kidding_queries
+Oppo,long_queries
+Xiaomi,short_queries
+I'm a student looking for a phone that can handle my workflow,storytelling_queries
+storage,long_queries
+gaming,long_queries
+I need a cheap phone right away,aggressive_queries
+best apps for Tecno,non_product_search
+I need the best phone immediately,aggressive_queries
+Xiaomi phone with good price under 15000,product_search
+Realme,long_queries
+I need a good phone now,aggressive_queries
+Vivo,short_queries
+phone that can teleport,kidding_queries
+Show me a good phone now,aggressive_queries
+I'm a professional looking for a phone that can manage my workflow,storytelling_queries
+Give me a good phone now,aggressive_queries
+Samsung phone with good storage under 30000,product_search
+Tecno phone with good storage under 40000,product_search
+phone that can cook food,kidding_queries
+phone tricks,non_product_search
+Give me the best phone right away,aggressive_queries
+how to improve my phone,non_product_search
+Oppo,short_queries
+phone that can cook food,kidding_queries
+I need a cheap phone now,aggressive_queries
+I'm a student looking for a phone that can support my workflow,storytelling_queries
+I'm a gamer looking for a phone that can handle my hobbies,storytelling_queries
+Show me a cheap phone now,aggressive_queries
+I'm a professional looking for a phone that can support my hobbies,storytelling_queries
+storage,long_queries
+Xiaomi,long_queries
+Vivo,short_queries
+phone tricks,non_product_search
+Nokia phone with good performance under 15000,product_search
+battery,short_queries
+Oppo,long_queries
+Show me the best phone immediately,aggressive_queries
+display,short_queries
+Samsung,short_queries
+OnePlus,long_queries
+Realme phone with good 5G under 30000,product_search
+phone that can predict future,kidding_queries
+Xiaomi,long_queries
+iPhone,long_queries
+phone that can teleport,kidding_queries
+Show me the best phone immediately,aggressive_queries
+Give me a good phone right away,aggressive_queries
+Oppo phone with good 5G under 20000,product_search
+phone that can teleport,kidding_queries
+phone that can predict future,kidding_queries
+Vivo,short_queries
+Give me a cheap phone now,aggressive_queries
+phone that can cook food,kidding_queries
+I'm a professional looking for a phone that can manage my hobbies,storytelling_queries
+OnePlus phone with good durability under 20000,product_search
+storage,short_queries
+Xiaomi,short_queries
+Samsung,short_queries
+phone that can teleport,kidding_queries
+phone tricks,non_product_search
+phone that can teleport,kidding_queries
+phone that can predict future,kidding_queries
+gaming,long_queries
+Xiaomi,long_queries
+storage,short_queries
+phone that can read minds,kidding_queries
+Vivo,short_queries
+price,long_queries
+durability,short_queries
+OnePlus,long_queries
+Nokia phone with good gaming under 25000,product_search
+Xiaomi phone with good storage under 30000,product_search
+best games for Tecno,non_product_search
+Nokia,long_queries
+iPhone phone with good battery under 25000,product_search
+storage,long_queries
+gaming,short_queries
+performance,short_queries
+I'm a professional looking for a phone that can manage my workflow,storytelling_queries
+storage,short_queries
+best games for OnePlus,non_product_search
+phone that can predict future,kidding_queries
+Tecno phone with good storage under 30000,product_search
+I'm a student looking for a phone that can support my workflow,storytelling_queries
+Realme phone with good gaming under 30000,product_search
+I'm a gamer looking for a phone that can support my lifestyle,storytelling_queries
+phone that can predict future,kidding_queries
+iPhone phone with good 5G under 20000,product_search
+best games for iPhone,non_product_search
+Samsung,short_queries
+Show me a cheap phone now,aggressive_queries
+how to improve my phone,non_product_search
+Show me the best phone right away,aggressive_queries
+phone that can read minds,kidding_queries
+I'm a student looking for a phone that can support my lifestyle,storytelling_queries
+Give me a cheap phone immediately,aggressive_queries
+I'm a professional looking for a phone that can handle my hobbies,storytelling_queries
+Give me a cheap phone immediately,aggressive_queries
+phone that can predict future,kidding_queries
+I'm a gamer looking for a phone that can handle my hobbies,storytelling_queries
+best themes for Vivo,non_product_search
+how to improve my phone,non_product_search
+phone that can predict future,kidding_queries
+phone that can do homework,kidding_queries
+phone tips,non_product_search
+Nokia,long_queries
+iPhone phone with good 5G under 15000,product_search
+Show me a good phone right away,aggressive_queries
+Huawei phone with good 5G under 10000,product_search
+I'm a gamer looking for a phone that can handle my workflow,storytelling_queries
+phone that can read minds,kidding_queries
+how to clean my phone,non_product_search
+battery,long_queries
+phone that can do homework,kidding_queries
+5G,short_queries
+best themes for Realme,non_product_search
+I'm a gamer looking for a phone that can manage my workflow,storytelling_queries
+best themes for Tecno,non_product_search
+phone tips,non_product_search
+Xiaomi phone with good price above 50000,product_search
+Huawei,long_queries
+price,long_queries
+Huawei,short_queries
+price,long_queries
+I'm a gamer looking for a phone that can handle my hobbies,storytelling_queries
+OnePlus,short_queries
+Oppo phone with good battery under 50000,product_search
+iPhone,short_queries
+Xiaomi,short_queries
+phone that can teleport,kidding_queries
+how to improve my phone,non_product_search
+I'm a student looking for a phone that can handle my workflow,storytelling_queries
+best apps for Samsung,non_product_search
+best games for Vivo,non_product_search
+Xiaomi phone with good design under 40000,product_search
+Huawei,short_queries
+Vivo,long_queries
+phone that can predict future,kidding_queries
+phone tips,non_product_search
+phone that can do homework,kidding_queries
+I'm a gamer looking for a phone that can handle my lifestyle,storytelling_queries
+gaming,short_queries
+Vivo,short_queries
+phone that can do homework,kidding_queries
+performance,short_queries
+I'm a student looking for a phone that can manage my hobbies,storytelling_queries
+Show me a cheap phone right away,aggressive_queries
+Give me a good phone immediately,aggressive_queries
+Huawei,long_queries
+Show me a cheap phone immediately,aggressive_queries
+phone tips,non_product_search
+iPhone,long_queries
+I'm a gamer looking for a phone that can handle my hobbies,storytelling_queries
+Xiaomi,short_queries
+Tecno,short_queries
+Tecno,short_queries
+best games for Vivo,non_product_search
+Tecno phone with good design under 30000,product_search
+Give me a cheap phone immediately,aggressive_queries
+Vivo,long_queries
+Oppo,long_queries
+Huawei,short_queries
+phone that can predict future,kidding_queries
+gaming,short_queries
+Oppo,short_queries
+I need a good phone right away,aggressive_queries
+design,short_queries
+I'm a student looking for a phone that can support my workflow,storytelling_queries
+Tecno,long_queries
+Give me the best phone immediately,aggressive_queries
+best games for Oppo,non_product_search
+phone that can teleport,kidding_queries
+best games for Vivo,non_product_search
+OnePlus,short_queries
+display,long_queries
+OnePlus,short_queries
+Show me a cheap phone right away,aggressive_queries
+I'm a professional looking for a phone that can manage my workflow,storytelling_queries
+Oppo,short_queries
+I'm a student looking for a phone that can manage my hobbies,storytelling_queries
+Samsung,long_queries
+I'm a photographer looking for a phone that can support my lifestyle,storytelling_queries
+I'm a gamer looking for a phone that can handle my hobbies,storytelling_queries
+I'm a gamer looking for a phone that can handle my hobbies,storytelling_queries
+Give me a cheap phone now,aggressive_queries
+phone tips,non_product_search
+price,short_queries
+I'm a professional looking for a phone that can handle my hobbies,storytelling_queries
+best themes for Realme,non_product_search
+phone that can do homework,kidding_queries
+Huawei,short_queries
+I'm a professional looking for a phone that can support my hobbies,storytelling_queries
+Realme,long_queries
+Samsung,short_queries
+Xiaomi phone with good durability under 50000,product_search
+iPhone,long_queries
+phone tips,non_product_search
+I'm a gamer looking for a phone that can manage my lifestyle,storytelling_queries
+I'm a student looking for a phone that can manage my workflow,storytelling_queries
+Samsung phone with good performance above 50000,product_search
+Show me a good phone now,aggressive_queries
+I'm a photographer looking for a phone that can support my hobbies,storytelling_queries
+best themes for Tecno,non_product_search
+phone hacks,non_product_search
+I'm a gamer looking for a phone that can manage my lifestyle,storytelling_queries
+I'm a photographer looking for a phone that can support my lifestyle,storytelling_queries
+I'm a gamer looking for a phone that can manage my hobbies,storytelling_queries
+durability,long_queries
+phone that can read minds,kidding_queries
+price,short_queries
+iPhone,short_queries
+I'm a student looking for a phone that can manage my lifestyle,storytelling_queries
+OnePlus,long_queries
+Give me the best phone immediately,aggressive_queries
+I'm a professional looking for a phone that can handle my workflow,storytelling_queries
+phone that can predict future,kidding_queries
+I'm a professional looking for a phone that can manage my lifestyle,storytelling_queries
+price,long_queries
+I'm a student looking for a phone that can handle my hobbies,storytelling_queries
+phone tricks,non_product_search
+price,short_queries
+Give me a good phone right away,aggressive_queries
+I'm a photographer looking for a phone that can manage my workflow,storytelling_queries
+Huawei,short_queries
+iPhone phone with good gaming under 30000,product_search
+Samsung,short_queries
+I'm a student looking for a phone that can handle my workflow,storytelling_queries
+camera,short_queries
+gaming,long_queries
+I need a cheap phone immediately,aggressive_queries
+Tecno phone with good performance under 15000,product_search
+Realme,short_queries
+durability,long_queries
+I'm a student looking for a phone that can manage my workflow,storytelling_queries
+Realme phone with good storage under 50000,product_search
+Give me a cheap phone immediately,aggressive_queries
+I'm a student looking for a phone that can handle my hobbies,storytelling_queries
+storage,long_queries
+durability,long_queries
+battery,long_queries
+Nokia phone with good 5G under 25000,product_search
+how to optimize my phone,non_product_search
+5G,long_queries
+how to optimize my phone,non_product_search
+phone that can predict future,kidding_queries
+I'm a gamer looking for a phone that can support my workflow,storytelling_queries
+phone that can teleport,kidding_queries
+Realme phone with good performance above 50000,product_search
+Tecno phone with good display under 30000,product_search
+performance,long_queries
+best themes for Nokia,non_product_search
+phone tips,non_product_search
+durability,short_queries
+Show me the best phone immediately,aggressive_queries
+Show me a good phone right away,aggressive_queries
+I'm a gamer looking for a phone that can handle my hobbies,storytelling_queries
+Xiaomi phone with good design under 30000,product_search
+I need a cheap phone now,aggressive_queries
+phone that can cook food,kidding_queries
+price,long_queries
+best games for Xiaomi,non_product_search
+phone tips,non_product_search
+battery,short_queries
+I'm a photographer looking for a phone that can manage my hobbies,storytelling_queries
+gaming,long_queries
+I'm a photographer looking for a phone that can handle my hobbies,storytelling_queries
+display,long_queries
+Give me a cheap phone immediately,aggressive_queries
+phone that can do homework,kidding_queries
+Nokia,short_queries
+how to optimize my phone,non_product_search
+phone that can cook food,kidding_queries
+display,short_queries
+phone that can predict future,kidding_queries

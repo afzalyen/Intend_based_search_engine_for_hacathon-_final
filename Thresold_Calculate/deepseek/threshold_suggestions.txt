@@ -1,0 +1,16 @@
+=== Current Thresholds ===
+Top Score Threshold: 0.4
+Avg Score Threshold: 0.3
+Centroid Threshold: 1.2
+Precision: 0.14, Recall: 1.00, F1: 0.25
+
+=== Suggested Thresholds ===
+Top Score Threshold: 0.499
+Avg Score Threshold: 0.407
+Centroid Threshold: 0.959
+Precision: 0.55, Recall: 0.76, F1: 0.64
+
+=== Recommendation ===
+These thresholds attempt to maximize F1 score by balancing precision and recall.
+You may want to adjust them based on whether you prioritize precision (fewer false positives)
+or recall (fewer false negatives) in your application.

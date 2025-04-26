@@ -1,0 +1,501 @@
+query,top_score,avg_score,centroid_distance,num_results,type
+best smartphone under 30000 taka,0.5082136,0.43605518,0.8648884,980,product_search
+iPhone 15 pro max price in Bangladesh,0.6240582,0.44689414,0.83549035,980,product_search
+Samsung Galaxy S23 Ultra case,0.5784825,0.3772839,1.0569358,980,product_search
+cheap gaming phones with good camera,0.5323286,0.447554,0.830257,980,product_search
+5G enabled phones under 25000,0.49710223,0.4123496,0.9414005,980,product_search
+latest Xiaomi models 2024,0.5916131,0.4234908,0.9145192,980,product_search
+waterproof mobile phones,0.44520095,0.38412324,1.0295731,980,product_search
+best battery life smartphones,0.492949,0.42532367,0.8987977,980,product_search
+phones with AMOLED display,0.41928607,0.3748171,1.0591568,980,product_search
+dual SIM phones with expandable storage,0.43630466,0.38611063,1.0215514,980,product_search
+best camera phone for vlogging,0.4837883,0.39955258,0.97922605,980,product_search
+compact smartphones under 6 inches,0.47370005,0.4012047,0.9737507,980,product_search
+phones with 12GB RAM,0.512171,0.41549078,0.93141747,980,product_search
+best phone for PUBG Mobile,0.4780756,0.41293958,0.936132,980,product_search
+phones with wireless charging,0.44950354,0.37993622,1.0442733,980,product_search
+best value for money smartphones,0.5533479,0.45951414,0.79629135,980,product_search
+phones with best speakers,0.44624698,0.39004174,1.0087414,980,product_search
+rugged smartphones for construction workers,0.44118488,0.38716224,1.0192624,980,product_search
+best phone for elderly parents,0.44372252,0.3807018,1.0391883,980,product_search
+phones with best low-light photography,0.47218648,0.41118023,0.941808,980,product_search
+how to make biryani,0.36801803,0.3303542,1.2157775,980,non_product_search
+current weather in Dhaka,0.38308233,0.35023645,1.1434665,980,non_product_search
+Bangladesh vs India cricket match schedule,0.38165683,0.35216194,1.1363885,980,non_product_search
+best universities in Bangladesh,0.38658383,0.35166156,1.1387609,980,non_product_search
+how to tie a tie,0.35345712,0.3273437,1.226798,980,non_product_search
+latest Hollywood movies 2024,0.39960605,0.35275394,1.1349353,980,non_product_search
+Python programming tutorials,0.36163408,0.33399233,1.201858,980,non_product_search
+home remedies for cold,0.4237586,0.33059967,1.2151618,980,non_product_search
+upcoming public holidays,0.36892098,0.33765757,1.1886396,980,non_product_search
+how to lose weight fast,0.3558442,0.33098543,1.2130554,980,non_product_search
+best tourist spots in Cox's Bazar,0.3884925,0.3446076,1.1635126,980,non_product_search
+how to write a CV,0.35869566,0.33287904,1.2063187,980,non_product_search
+latest Bangladesh election news,0.3834344,0.34765282,1.1526464,980,non_product_search
+how to invest in stock market,0.36924747,0.33921278,1.182867,980,non_product_search
+best restaurants in Gulshan,0.38800323,0.35337773,1.1327991,980,non_product_search
+how to learn English quickly,0.3605607,0.33760968,1.1884136,980,non_product_search
+latest fashion trends 2024,0.3870324,0.34870216,1.1479231,980,non_product_search
+how to start a small business,0.38127422,0.339328,1.1826198,980,non_product_search
+best books for entrepreneurs,0.36170408,0.33092204,1.213712,980,non_product_search
+how to repair a bicycle,0.35618508,0.32939976,1.2189567,980,non_product_search
+phone that can make me invisible,0.43749738,0.3710763,1.0719674,980,kidding_queries
+smartphone that does my homework,0.44381422,0.39441043,0.9957032,980,kidding_queries
+mobile that can teleport me,0.4104668,0.37545815,1.0565925,980,kidding_queries
+phone with built-in pizza maker,0.43049774,0.37334633,1.0646032,980,kidding_queries
+device that reads my mind,0.39345035,0.36153963,1.103128,980,kidding_queries
+phone that never needs charging,0.49637023,0.4084144,0.9510461,980,kidding_queries
+mobile with time travel feature,0.39562762,0.3567738,1.1206144,980,kidding_queries
+smartphone that can fly,0.45235205,0.3958471,0.9910652,980,kidding_queries
+phone that makes me famous instantly,0.41867244,0.370273,1.0748081,980,kidding_queries
+device that can predict lottery numbers,0.4002073,0.36178595,1.1027482,980,kidding_queries
+phone with built-in girlfriend,0.42823902,0.3789526,1.0447817,980,kidding_queries
+mobile that cooks biryani automatically,0.40174142,0.36042458,1.1074723,980,kidding_queries
+smartphone that grants wishes,0.42348635,0.37812302,1.0479641,980,kidding_queries
+phone with infinite storage,0.4428408,0.3885124,1.0147457,980,kidding_queries
+device that makes me taller,0.38693964,0.35761964,1.1164232,980,kidding_queries
+mobile with built-in ATM,0.44794506,0.39394027,0.995421,980,kidding_queries
+phone that can hack anything,0.44676197,0.38249773,1.033628,980,kidding_queries
+smartphone with telekinesis,0.41462097,0.36929312,1.0778954,980,kidding_queries
+device that makes me rich overnight,0.41029924,0.3789595,1.0443053,980,kidding_queries
+phone that can solve all my problems,0.471233,0.40377498,0.96575516,980,kidding_queries
+give me that damn phone now,0.45899412,0.39340907,0.9980785,980,aggressive_queries
+where the hell can I buy iPhone 15,0.5666745,0.40490034,0.9626715,980,aggressive_queries
+I need a phone you idiots,0.44109297,0.38176954,1.0354874,980,aggressive_queries
+show me phones or I'll leave,0.420374,0.37586552,1.0554022,980,aggressive_queries
+why can't you find my perfect phone,0.45630792,0.4038571,0.96483356,980,aggressive_queries
+this service is crap find me a phone,0.4575431,0.38399556,1.0279609,980,aggressive_queries
+I hate all phones just show me something,0.4617383,0.3830714,1.0326421,980,aggressive_queries
+you better have good phones,0.46473515,0.4019727,0.97034746,980,aggressive_queries
+I'm tired of searching just give me a phone,0.41031516,0.3699506,1.0747328,980,aggressive_queries
+if you don't have good phones I'll sue,0.45053503,0.39524928,0.9919335,980,aggressive_queries
+where are the real phones not this junk,0.4640298,0.40493625,0.9618065,980,aggressive_queries
+I need a phone right now no excuses,0.43850225,0.37644565,1.0529672,980,aggressive_queries
+your search is terrible fix it,0.38057098,0.34919274,1.1463007,980,aggressive_queries
+I demand the best phone immediately,0.46095002,0.40408447,0.9636019,980,aggressive_queries
+this is your last chance to show good phones,0.47164318,0.40501204,0.96217126,980,aggressive_queries
+I'll break this site if I don't get phones,0.437646,0.38670138,1.0200453,980,aggressive_queries
+why is finding a phone so difficult here,0.41869825,0.37806377,1.0480698,980,aggressive_queries
+you're wasting my time with bad results,0.35208482,0.33186504,1.2095988,980,aggressive_queries
+I need performance not your stupid ads,0.41269094,0.3817942,1.0342437,980,aggressive_queries
+either show me phones or shut down,0.4154648,0.36472812,1.0919466,980,aggressive_queries
+I'm a photographer who needs a phone with excellent camera for my wildlife photography in Sundarbans,0.46743256,0.4016627,0.9720551,980,storytelling_queries
+My grandmother needs a simple phone with big buttons because her eyesight is failing,0.41488975,0.37297523,1.0648173,980,storytelling_queries
+I'm a college student with limited budget but need a reliable phone for online classes and gaming,0.46344304,0.41254193,0.93699455,980,storytelling_queries
+"As a frequent traveler, I need a durable phone with global bands that can survive rough handling",0.45748627,0.39336553,0.9990344,980,storytelling_queries
+I'm a businessman who needs two phones - one for work with good security and one personal,0.42894718,0.37768573,1.0494057,980,storytelling_queries
+"My current phone battery dies by noon, I need something that lasts all day with heavy use",0.4133749,0.37905952,1.0440152,980,storytelling_queries
+"I dropped my phone in water last week, now I need a waterproof one because I'm clumsy",0.39780286,0.3657934,1.0890627,980,storytelling_queries
+"My kids keep breaking my phones, I need something indestructible with parental controls",0.39766017,0.36507824,1.0914977,980,storytelling_queries
+I'm a food blogger and need a phone with excellent camera and video for my cooking videos,0.4547713,0.38938516,1.0119221,980,storytelling_queries
+"As a doctor, I need a phone with long battery life and can withstand frequent sanitizing",0.43458515,0.38542604,1.0248858,980,storytelling_queries
+"I'm tired of carrying a separate camera, need phone with professional-grade photography",0.4676647,0.39484745,0.99453735,980,storytelling_queries
+"My current phone is too slow, need something fast for multitasking between work apps",0.4330621,0.38621002,1.021442,980,storytelling_queries
+I'm a gamer and need a phone with high refresh rate and cooling system for long sessions,0.4768347,0.41824844,0.9185698,980,storytelling_queries
+I need a phone that can handle extreme temperatures for my work in construction sites,0.43260562,0.38049567,1.0397805,980,storytelling_queries
+"As a musician, I need phone with great audio quality for recording and listening",0.44785428,0.39510408,0.9922151,980,storytelling_queries
+I'm visually impaired and need phone with excellent accessibility features,0.4375318,0.37623072,1.0534852,980,storytelling_queries
+"My old phone's storage is full, need something with at least 256GB for all my photos",0.46903843,0.39815605,0.9831525,980,storytelling_queries
+I need a phone that can last 3 days on single charge for my remote village trips,0.43982768,0.39550927,0.990688,980,storytelling_queries
+"As a social media manager, I need phone that can handle multiple accounts smoothly",0.4148892,0.37482238,1.0593792,980,storytelling_queries
+"I want a phone that stands out, maybe with unique color or customizable back panel",0.44652876,0.40082702,0.97382045,980,storytelling_queries
+phone,0.45139474,0.384558,1.0267825,980,short_queries
+smartphone,0.49236953,0.41233164,0.941832,980,short_queries
+mobile,0.45256928,0.39265752,1.0011083,980,short_queries
+best phone,0.5013189,0.4221034,0.90854895,980,short_queries
+cheap phone,0.54662335,0.45701778,0.80224705,980,short_queries
+5G phone,0.51735914,0.42982513,0.88900495,980,short_queries
+iPhone,0.5019899,0.39925736,0.98135614,980,short_queries
+Samsung,0.53815854,0.40926713,0.95639914,980,short_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,short_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,short_queries
+Vivo,0.53817797,0.36805353,1.0960454,980,short_queries
+Realme,0.6366476,0.36946937,1.110698,980,short_queries
+OnePlus,0.5835067,0.37617964,1.0639964,980,short_queries
+gaming phone,0.46623084,0.41221488,0.93779373,980,short_queries
+camera phone,0.503163,0.40551946,0.9621601,980,short_queries
+Android,0.47647044,0.40005556,0.97713417,980,short_queries
+iOS,0.45578322,0.38171998,1.0367146,980,short_queries
+new phone,0.47908935,0.4017811,0.9717264,980,short_queries
+good phone,0.49427825,0.41179752,0.94010335,980,short_queries
+phone price,0.5690747,0.46923503,0.76657146,980,short_queries
+"I'm looking for a high-end smartphone with all the latest features including 5G, AMOLED display, at least 12GB RAM, 256GB storage, excellent camera system with optical zoom, wireless charging, IP68 rating, and long battery life that can easily last a full day with heavy usage including gaming and video streaming",0.5480544,0.4547026,0.81048816,980,long_queries
+"Need recommendations for a budget smartphone under 20000 taka that has decent performance for everyday tasks, good battery life, acceptable camera quality for social media, and preferably from a reputable brand with good after-sales service in Bangladesh",0.5085308,0.43649063,0.8637202,980,long_queries
+"Searching for a rugged smartphone that can withstand extreme conditions including dust, water, and drops from height, suitable for construction site work, with good battery life and decent camera for documenting work progress, preferably with glove-friendly touchscreen",0.45271435,0.40055025,0.97595,980,long_queries
+"Looking for the best possible camera phone available in the market right now regardless of price, with emphasis on low-light performance, optical zoom capabilities, and professional-grade video recording features for content creation",0.5234264,0.4344814,0.87150484,980,long_queries
+"I need a smartphone specifically optimized for gaming with high refresh rate display, powerful processor, good cooling system, large battery, and gaming-specific features like shoulder triggers or customizable performance modes",0.48547468,0.42546058,0.8970771,980,long_queries
+Samsung phone with good 5G under 15000,0.6285041,0.45217142,0.82700837,980,product_search
+Huawei,0.6012221,0.4013368,0.97543895,980,long_queries
+performance,0.4130915,0.37666476,1.0513046,980,long_queries
+design,0.37667614,0.3516383,1.1374272,980,short_queries
+Tecno phone with good performance under 40000,0.5959949,0.43509752,0.8704103,980,product_search
+storage,0.3994288,0.36995098,1.0740827,980,long_queries
+Xiaomi phone with good durability above 50000,0.6022808,0.44459173,0.8483734,980,product_search
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+design,0.37667614,0.3516383,1.1374272,980,short_queries
+how to clean my phone,0.41618642,0.37111816,1.0721785,980,non_product_search
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+I'm a professional looking for a phone that can manage my lifestyle,0.45028138,0.39269087,1.0007988,980,storytelling_queries
+Samsung phone with good performance under 40000,0.5976268,0.4315137,0.88795906,980,product_search
+Realme,0.6366476,0.36946937,1.110698,980,short_queries
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+iPhone phone with good durability under 15000,0.57338494,0.43196568,0.8810193,980,product_search
+Show me a good phone immediately,0.47806224,0.4007952,0.9745799,980,aggressive_queries
+Give me a cheap phone right away,0.49582663,0.4268016,0.8922571,980,aggressive_queries
+phone that can read minds,0.4421646,0.38643423,1.0203637,980,kidding_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,long_queries
+best apps for Xiaomi,0.54413646,0.39995834,0.98764485,980,non_product_search
+I'm a photographer looking for a phone that can handle my workflow,0.470815,0.39533472,0.9927961,980,storytelling_queries
+iPhone phone with good 5G under 20000,0.51576626,0.43341208,0.8753761,980,product_search
+Show me a cheap phone immediately,0.5031711,0.4297715,0.88376474,980,aggressive_queries
+Nokia phone with good battery under 10000,0.59516466,0.4340086,0.8738429,980,product_search
+I need a good phone right away,0.45286322,0.39493015,0.9924853,980,aggressive_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+I'm a student looking for a phone that can manage my hobbies,0.43148944,0.3866745,1.0194265,980,storytelling_queries
+gaming,0.3973958,0.3501127,1.1437359,980,long_queries
+phone that can do homework,0.45169425,0.3882975,1.0149176,980,kidding_queries
+I'm a professional looking for a phone that can support my lifestyle,0.45399362,0.39701575,0.98697925,980,storytelling_queries
+Nokia,0.5757035,0.4097775,0.9486352,980,short_queries
+Realme phone with good camera under 30000,0.6343554,0.4446032,0.84813,980,product_search
+I'm a professional looking for a phone that can manage my hobbies,0.43618554,0.38720635,1.0179894,980,storytelling_queries
+Samsung phone with good camera under 15000,0.5816118,0.43892995,0.86441404,980,product_search
+Realme,0.6366476,0.36946937,1.110698,980,long_queries
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+Huawei,0.6012221,0.4013368,0.97543895,980,long_queries
+iPhone,0.5019899,0.39925736,0.98135614,980,long_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+OnePlus,0.5835067,0.37617964,1.0639964,980,long_queries
+durability,0.36908266,0.3470766,1.1536523,980,long_queries
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+I need a cheap phone right away,0.48114142,0.4231963,0.90326375,980,aggressive_queries
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+phone that can read minds,0.4421646,0.38643423,1.0203637,980,kidding_queries
+Tecno,0.5507886,0.34691405,1.162272,980,long_queries
+phone tricks,0.43933317,0.37353218,1.0639371,980,non_product_search
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+Nokia,0.5757035,0.4097775,0.9486352,980,long_queries
+I'm a gamer looking for a phone that can manage my workflow,0.43365112,0.39320898,0.99827665,980,storytelling_queries
+Samsung phone with good performance under 15000,0.62314963,0.43873575,0.8680621,980,product_search
+Nokia,0.5757035,0.4097775,0.9486352,980,short_queries
+I'm a photographer looking for a phone that can support my hobbies,0.47675645,0.39878225,0.9814743,980,storytelling_queries
+how to clean my phone,0.41618642,0.37111816,1.0721785,980,non_product_search
+I'm a professional looking for a phone that can manage my hobbies,0.43618554,0.38720635,1.0179894,980,storytelling_queries
+battery,0.43811852,0.38994712,1.0077554,980,long_queries
+best games for iPhone,0.44450077,0.38024658,1.0406953,980,non_product_search
+Realme,0.6366476,0.36946937,1.110698,980,long_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,short_queries
+Samsung,0.53815854,0.40926713,0.95639914,980,long_queries
+Show me a cheap phone now,0.51754725,0.43655065,0.8634114,980,aggressive_queries
+I'm a student looking for a phone that can manage my lifestyle,0.43927348,0.3900219,1.0091753,980,storytelling_queries
+best games for Vivo,0.54771626,0.39407787,1.005578,980,non_product_search
+performance,0.4130915,0.37666476,1.0513046,980,long_queries
+I need a good phone now,0.46425593,0.39897737,0.97976434,980,aggressive_queries
+I'm a student looking for a phone that can manage my hobbies,0.43148944,0.3866745,1.0194265,980,storytelling_queries
+best themes for Nokia,0.48633203,0.38516492,1.0251763,980,non_product_search
+Xiaomi phone with good price under 25000,0.65872234,0.47843155,0.7541576,980,product_search
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+iPhone,0.5019899,0.39925736,0.98135614,980,long_queries
+Nokia phone with good durability under 30000,0.62152016,0.43698052,0.8653015,980,product_search
+I'm a professional looking for a phone that can support my lifestyle,0.45399362,0.39701575,0.98697925,980,storytelling_queries
+phone that can read minds,0.4421646,0.38643423,1.0203637,980,kidding_queries
+I'm a gamer looking for a phone that can manage my hobbies,0.44492957,0.39860654,0.9809377,980,storytelling_queries
+I need the best phone immediately,0.48490128,0.41819066,0.91957486,980,aggressive_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,long_queries
+best apps for Realme,0.6349804,0.39087355,1.0330142,980,non_product_search
+phone that can do homework,0.45169425,0.3882975,1.0149176,980,kidding_queries
+I'm a professional looking for a phone that can handle my workflow,0.4406988,0.39230332,1.0019264,980,storytelling_queries
+I'm a student looking for a phone that can manage my hobbies,0.43148944,0.3866745,1.0194265,980,storytelling_queries
+I'm a student looking for a phone that can manage my workflow,0.42087543,0.38030994,1.0406524,980,storytelling_queries
+best themes for Huawei,0.5124194,0.37594095,1.0559838,980,non_product_search
+I'm a student looking for a phone that can manage my hobbies,0.43148944,0.3866745,1.0194265,980,storytelling_queries
+Show me a cheap phone immediately,0.5031711,0.4297715,0.88376474,980,aggressive_queries
+Realme,0.6366476,0.36946937,1.110698,980,short_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+Samsung,0.53815854,0.40926713,0.95639914,980,long_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,long_queries
+Show me a good phone now,0.48718926,0.4033999,0.96672434,980,aggressive_queries
+display,0.3807574,0.3565223,1.1203425,980,short_queries
+battery,0.43811852,0.38994712,1.0077554,980,long_queries
+Huawei phone with good battery above 50000,0.6073221,0.43270543,0.8769245,980,product_search
+price,0.49581966,0.43206125,0.8751933,980,long_queries
+Xiaomi phone with good price above 50000,0.680657,0.47983098,0.7476779,980,product_search
+how to clean my phone,0.41618642,0.37111816,1.0721785,980,non_product_search
+Realme phone with good storage under 40000,0.6158437,0.43575495,0.8783332,980,product_search
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+Realme,0.6366476,0.36946937,1.110698,980,long_queries
+phone that can read minds,0.4421646,0.38643423,1.0203637,980,kidding_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,long_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,short_queries
+I'm a student looking for a phone that can handle my workflow,0.43434426,0.38867056,1.0136325,980,storytelling_queries
+storage,0.3994288,0.36995098,1.0740827,980,long_queries
+gaming,0.3973958,0.3501127,1.1437359,980,long_queries
+I need a cheap phone right away,0.48114142,0.4231963,0.90326375,980,aggressive_queries
+best apps for Tecno,0.53024864,0.376729,1.055547,980,non_product_search
+I need the best phone immediately,0.48490128,0.41819066,0.91957486,980,aggressive_queries
+Xiaomi phone with good price under 15000,0.690499,0.4814522,0.7452957,980,product_search
+Realme,0.6366476,0.36946937,1.110698,980,long_queries
+I need a good phone now,0.46425593,0.39897737,0.97976434,980,aggressive_queries
+Vivo,0.53817797,0.36805353,1.0960454,980,short_queries
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+Show me a good phone now,0.48718926,0.4033999,0.96672434,980,aggressive_queries
+I'm a professional looking for a phone that can manage my workflow,0.42229134,0.38155732,1.0364937,980,storytelling_queries
+Give me a good phone now,0.48121256,0.40320927,0.9664959,980,aggressive_queries
+Samsung phone with good storage under 30000,0.5823659,0.43239704,0.8840195,980,product_search
+Tecno phone with good storage under 40000,0.5672341,0.4295228,0.8867872,980,product_search
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+phone tricks,0.43933317,0.37353218,1.0639371,980,non_product_search
+Give me the best phone right away,0.4796479,0.4126198,0.9375482,980,aggressive_queries
+how to improve my phone,0.45705324,0.40245292,0.97036386,980,non_product_search
+Oppo,0.60704184,0.36270073,1.1284716,980,short_queries
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+I need a cheap phone now,0.49684912,0.42941564,0.8843898,980,aggressive_queries
+I'm a student looking for a phone that can support my workflow,0.42485875,0.38380903,1.0290834,980,storytelling_queries
+I'm a gamer looking for a phone that can handle my hobbies,0.45825556,0.4062009,0.95697063,980,storytelling_queries
+Show me a cheap phone now,0.51754725,0.43655065,0.8634114,980,aggressive_queries
+I'm a professional looking for a phone that can support my hobbies,0.44680414,0.39533424,0.9920151,980,storytelling_queries
+storage,0.3994288,0.36995098,1.0740827,980,long_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,long_queries
+Vivo,0.53817797,0.36805353,1.0960454,980,short_queries
+phone tricks,0.43933317,0.37353218,1.0639371,980,non_product_search
+Nokia phone with good performance under 15000,0.61591506,0.44369477,0.84600866,980,product_search
+battery,0.43811852,0.38994712,1.0077554,980,short_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,long_queries
+Show me the best phone immediately,0.47869954,0.40780592,0.95275635,980,aggressive_queries
+display,0.3807574,0.3565223,1.1203425,980,short_queries
+Samsung,0.53815854,0.40926713,0.95639914,980,short_queries
+OnePlus,0.5835067,0.37617964,1.0639964,980,long_queries
+Realme phone with good 5G under 30000,0.65793157,0.44943157,0.83945805,980,product_search
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,long_queries
+iPhone,0.5019899,0.39925736,0.98135614,980,long_queries
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+Show me the best phone immediately,0.47869954,0.40780592,0.95275635,980,aggressive_queries
+Give me a good phone right away,0.46401048,0.39558032,0.99065214,980,aggressive_queries
+Oppo phone with good 5G under 20000,0.69314575,0.44482672,0.85651505,980,product_search
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+Vivo,0.53817797,0.36805353,1.0960454,980,short_queries
+Give me a cheap phone now,0.50365335,0.43159494,0.87779987,980,aggressive_queries
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+I'm a professional looking for a phone that can manage my hobbies,0.43618554,0.38720635,1.0179894,980,storytelling_queries
+OnePlus phone with good durability under 20000,0.60804814,0.42736533,0.89673275,980,product_search
+storage,0.3994288,0.36995098,1.0740827,980,short_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,short_queries
+Samsung,0.53815854,0.40926713,0.95639914,980,short_queries
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+phone tricks,0.43933317,0.37353218,1.0639371,980,non_product_search
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+gaming,0.3973958,0.3501127,1.1437359,980,long_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,long_queries
+storage,0.3994288,0.36995098,1.0740827,980,short_queries
+phone that can read minds,0.4421646,0.38643423,1.0203637,980,kidding_queries
+Vivo,0.53817797,0.36805353,1.0960454,980,short_queries
+price,0.49581966,0.43206125,0.8751933,980,long_queries
+durability,0.36908266,0.3470766,1.1536523,980,short_queries
+OnePlus,0.5835067,0.37617964,1.0639964,980,long_queries
+Nokia phone with good gaming under 25000,0.60275924,0.44108856,0.8514243,980,product_search
+Xiaomi phone with good storage under 30000,0.58307916,0.44174805,0.85610765,980,product_search
+best games for Tecno,0.5234848,0.35854128,1.1186507,980,non_product_search
+Nokia,0.5757035,0.4097775,0.9486352,980,long_queries
+iPhone phone with good battery under 25000,0.51178145,0.4254047,0.9000326,980,product_search
+storage,0.3994288,0.36995098,1.0740827,980,long_queries
+gaming,0.3973958,0.3501127,1.1437359,980,short_queries
+performance,0.4130915,0.37666476,1.0513046,980,short_queries
+I'm a professional looking for a phone that can manage my workflow,0.42229134,0.38155732,1.0364937,980,storytelling_queries
+storage,0.3994288,0.36995098,1.0740827,980,short_queries
+best games for OnePlus,0.5531049,0.38067234,1.0457873,980,non_product_search
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+Tecno phone with good storage under 30000,0.57755816,0.43197626,0.87975764,980,product_search
+I'm a student looking for a phone that can support my workflow,0.42485875,0.38380903,1.0290834,980,storytelling_queries
+Realme phone with good gaming under 30000,0.64438874,0.44481722,0.8513763,980,product_search
+I'm a gamer looking for a phone that can support my lifestyle,0.45863834,0.40727586,0.95408946,980,storytelling_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+iPhone phone with good 5G under 20000,0.51576626,0.43341208,0.8753761,980,product_search
+best games for iPhone,0.44450077,0.38024658,1.0406953,980,non_product_search
+Samsung,0.53815854,0.40926713,0.95639914,980,short_queries
+Show me a cheap phone now,0.51754725,0.43655065,0.8634114,980,aggressive_queries
+how to improve my phone,0.45705324,0.40245292,0.97036386,980,non_product_search
+Show me the best phone right away,0.46148473,0.39874908,0.9815231,980,aggressive_queries
+phone that can read minds,0.4421646,0.38643423,1.0203637,980,kidding_queries
+I'm a student looking for a phone that can support my lifestyle,0.44017932,0.3925642,1.0008211,980,storytelling_queries
+Give me a cheap phone immediately,0.49867296,0.4275085,0.89004904,980,aggressive_queries
+I'm a professional looking for a phone that can handle my hobbies,0.44944873,0.39527762,0.9923005,980,storytelling_queries
+Give me a cheap phone immediately,0.49867296,0.4275085,0.89004904,980,aggressive_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+I'm a gamer looking for a phone that can handle my hobbies,0.45825556,0.4062009,0.95697063,980,storytelling_queries
+best themes for Vivo,0.47290424,0.3651232,1.0982863,980,non_product_search
+how to improve my phone,0.45705324,0.40245292,0.97036386,980,non_product_search
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+phone that can do homework,0.45169425,0.3882975,1.0149176,980,kidding_queries
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+Nokia,0.5757035,0.4097775,0.9486352,980,long_queries
+iPhone phone with good 5G under 15000,0.56938076,0.44491786,0.8423892,980,product_search
+Show me a good phone right away,0.46622002,0.3937625,0.99703413,980,aggressive_queries
+Huawei phone with good 5G under 10000,0.6295159,0.44071853,0.8537833,980,product_search
+I'm a gamer looking for a phone that can handle my workflow,0.45404282,0.40401822,0.9638682,980,storytelling_queries
+phone that can read minds,0.4421646,0.38643423,1.0203637,980,kidding_queries
+how to clean my phone,0.41618642,0.37111816,1.0721785,980,non_product_search
+battery,0.43811852,0.38994712,1.0077554,980,long_queries
+phone that can do homework,0.45169425,0.3882975,1.0149176,980,kidding_queries
+5G,0.5137026,0.42648897,0.8981475,980,short_queries
+best themes for Realme,0.5255811,0.3575886,1.1342763,980,non_product_search
+I'm a gamer looking for a phone that can manage my workflow,0.43365112,0.39320898,0.99827665,980,storytelling_queries
+best themes for Tecno,0.4830891,0.34618118,1.1611347,980,non_product_search
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+Xiaomi phone with good price above 50000,0.680657,0.47983098,0.7476779,980,product_search
+Huawei,0.6012221,0.4013368,0.97543895,980,long_queries
+price,0.49581966,0.43206125,0.8751933,980,long_queries
+Huawei,0.6012221,0.4013368,0.97543895,980,short_queries
+price,0.49581966,0.43206125,0.8751933,980,long_queries
+I'm a gamer looking for a phone that can handle my hobbies,0.45825556,0.4062009,0.95697063,980,storytelling_queries
+OnePlus,0.5835067,0.37617964,1.0639964,980,short_queries
+Oppo phone with good battery under 50000,0.63312507,0.43794444,0.87258863,980,product_search
+iPhone,0.5019899,0.39925736,0.98135614,980,short_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,short_queries
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+how to improve my phone,0.45705324,0.40245292,0.97036386,980,non_product_search
+I'm a student looking for a phone that can handle my workflow,0.43434426,0.38867056,1.0136325,980,storytelling_queries
+best apps for Samsung,0.5242263,0.4017737,0.9799943,980,non_product_search
+best games for Vivo,0.54771626,0.39407787,1.005578,980,non_product_search
+Xiaomi phone with good design under 40000,0.5893356,0.44486445,0.847161,980,product_search
+Huawei,0.6012221,0.4013368,0.97543895,980,short_queries
+Vivo,0.53817797,0.36805353,1.0960454,980,long_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+phone that can do homework,0.45169425,0.3882975,1.0149176,980,kidding_queries
+I'm a gamer looking for a phone that can handle my lifestyle,0.46642667,0.41093406,0.94266546,980,storytelling_queries
+gaming,0.3973958,0.3501127,1.1437359,980,short_queries
+Vivo,0.53817797,0.36805353,1.0960454,980,short_queries
+phone that can do homework,0.45169425,0.3882975,1.0149176,980,kidding_queries
+performance,0.4130915,0.37666476,1.0513046,980,short_queries
+I'm a student looking for a phone that can manage my hobbies,0.43148944,0.3866745,1.0194265,980,storytelling_queries
+Show me a cheap phone right away,0.51131845,0.43033466,0.8820037,980,aggressive_queries
+Give me a good phone immediately,0.47708905,0.40315613,0.96639305,980,aggressive_queries
+Huawei,0.6012221,0.4013368,0.97543895,980,long_queries
+Show me a cheap phone immediately,0.5031711,0.4297715,0.88376474,980,aggressive_queries
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+iPhone,0.5019899,0.39925736,0.98135614,980,long_queries
+I'm a gamer looking for a phone that can handle my hobbies,0.45825556,0.4062009,0.95697063,980,storytelling_queries
+Xiaomi,0.6009074,0.40738806,0.9711267,980,short_queries
+Tecno,0.5507886,0.34691405,1.162272,980,short_queries
+Tecno,0.5507886,0.34691405,1.162272,980,short_queries
+best games for Vivo,0.54771626,0.39407787,1.005578,980,non_product_search
+Tecno phone with good design under 30000,0.5863973,0.43478227,0.8713705,980,product_search
+Give me a cheap phone immediately,0.49867296,0.4275085,0.89004904,980,aggressive_queries
+Vivo,0.53817797,0.36805353,1.0960454,980,long_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,long_queries
+Huawei,0.6012221,0.4013368,0.97543895,980,short_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+gaming,0.3973958,0.3501127,1.1437359,980,short_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,short_queries
+I need a good phone right away,0.45286322,0.39493015,0.9924853,980,aggressive_queries
+design,0.37667614,0.3516383,1.1374272,980,short_queries
+I'm a student looking for a phone that can support my workflow,0.42485875,0.38380903,1.0290834,980,storytelling_queries
+Tecno,0.5507886,0.34691405,1.162272,980,long_queries
+Give me the best phone immediately,0.49437916,0.41867322,0.9186082,980,aggressive_queries
+best games for Oppo,0.5772693,0.374421,1.0788376,980,non_product_search
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+best games for Vivo,0.54771626,0.39407787,1.005578,980,non_product_search
+OnePlus,0.5835067,0.37617964,1.0639964,980,short_queries
+display,0.3807574,0.3565223,1.1203425,980,long_queries
+OnePlus,0.5835067,0.37617964,1.0639964,980,short_queries
+Show me a cheap phone right away,0.51131845,0.43033466,0.8820037,980,aggressive_queries
+I'm a professional looking for a phone that can manage my workflow,0.42229134,0.38155732,1.0364937,980,storytelling_queries
+Oppo,0.60704184,0.36270073,1.1284716,980,short_queries
+I'm a student looking for a phone that can manage my hobbies,0.43148944,0.3866745,1.0194265,980,storytelling_queries
+Samsung,0.53815854,0.40926713,0.95639914,980,long_queries
+I'm a photographer looking for a phone that can support my lifestyle,0.47832105,0.40140432,0.97325647,980,storytelling_queries
+I'm a gamer looking for a phone that can handle my hobbies,0.45825556,0.4062009,0.95697063,980,storytelling_queries
+I'm a gamer looking for a phone that can handle my hobbies,0.45825556,0.4062009,0.95697063,980,storytelling_queries
+Give me a cheap phone now,0.50365335,0.43159494,0.87779987,980,aggressive_queries
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+price,0.49581966,0.43206125,0.8751933,980,short_queries
+I'm a professional looking for a phone that can handle my hobbies,0.44944873,0.39527762,0.9923005,980,storytelling_queries
+best themes for Realme,0.5255811,0.3575886,1.1342763,980,non_product_search
+phone that can do homework,0.45169425,0.3882975,1.0149176,980,kidding_queries
+Huawei,0.6012221,0.4013368,0.97543895,980,short_queries
+I'm a professional looking for a phone that can support my hobbies,0.44680414,0.39533424,0.9920151,980,storytelling_queries
+Realme,0.6366476,0.36946937,1.110698,980,long_queries
+Samsung,0.53815854,0.40926713,0.95639914,980,short_queries
+Xiaomi phone with good durability under 50000,0.5978157,0.44042978,0.86077726,980,product_search
+iPhone,0.5019899,0.39925736,0.98135614,980,long_queries
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+I'm a gamer looking for a phone that can manage my lifestyle,0.4552258,0.40267062,0.9686251,980,storytelling_queries
+I'm a student looking for a phone that can manage my workflow,0.42087543,0.38030994,1.0406524,980,storytelling_queries
+Samsung phone with good performance above 50000,0.5866503,0.43632346,0.8739799,980,product_search
+Show me a good phone now,0.48718926,0.4033999,0.96672434,980,aggressive_queries
+I'm a photographer looking for a phone that can support my hobbies,0.47675645,0.39878225,0.9814743,980,storytelling_queries
+best themes for Tecno,0.4830891,0.34618118,1.1611347,980,non_product_search
+phone hacks,0.40299773,0.36149913,1.1043687,980,non_product_search
+I'm a gamer looking for a phone that can manage my lifestyle,0.4552258,0.40267062,0.9686251,980,storytelling_queries
+I'm a photographer looking for a phone that can support my lifestyle,0.47832105,0.40140432,0.97325647,980,storytelling_queries
+I'm a gamer looking for a phone that can manage my hobbies,0.44492957,0.39860654,0.9809377,980,storytelling_queries
+durability,0.36908266,0.3470766,1.1536523,980,long_queries
+phone that can read minds,0.4421646,0.38643423,1.0203637,980,kidding_queries
+price,0.49581966,0.43206125,0.8751933,980,short_queries
+iPhone,0.5019899,0.39925736,0.98135614,980,short_queries
+I'm a student looking for a phone that can manage my lifestyle,0.43927348,0.3900219,1.0091753,980,storytelling_queries
+OnePlus,0.5835067,0.37617964,1.0639964,980,long_queries
+Give me the best phone immediately,0.49437916,0.41867322,0.9186082,980,aggressive_queries
+I'm a professional looking for a phone that can handle my workflow,0.4406988,0.39230332,1.0019264,980,storytelling_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+I'm a professional looking for a phone that can manage my lifestyle,0.45028138,0.39269087,1.0007988,980,storytelling_queries
+price,0.49581966,0.43206125,0.8751933,980,long_queries
+I'm a student looking for a phone that can handle my hobbies,0.44368815,0.3930277,0.9990738,980,storytelling_queries
+phone tricks,0.43933317,0.37353218,1.0639371,980,non_product_search
+price,0.49581966,0.43206125,0.8751933,980,short_queries
+Give me a good phone right away,0.46401048,0.39558032,0.99065214,980,aggressive_queries
+I'm a photographer looking for a phone that can manage my workflow,0.45638698,0.3879708,1.016176,980,storytelling_queries
+Huawei,0.6012221,0.4013368,0.97543895,980,short_queries
+iPhone phone with good gaming under 30000,0.49409556,0.42507625,0.89845425,980,product_search
+Samsung,0.53815854,0.40926713,0.95639914,980,short_queries
+I'm a student looking for a phone that can handle my workflow,0.43434426,0.38867056,1.0136325,980,storytelling_queries
+camera,0.4448519,0.37808222,1.0487708,980,short_queries
+gaming,0.3973958,0.3501127,1.1437359,980,long_queries
+I need a cheap phone immediately,0.4904048,0.4270189,0.89143527,980,aggressive_queries
+Tecno phone with good performance under 15000,0.6000321,0.43914002,0.8583823,980,product_search
+Realme,0.6366476,0.36946937,1.110698,980,short_queries
+durability,0.36908266,0.3470766,1.1536523,980,long_queries
+I'm a student looking for a phone that can manage my workflow,0.42087543,0.38030994,1.0406524,980,storytelling_queries
+Realme phone with good storage under 50000,0.61792403,0.43835044,0.87122285,980,product_search
+Give me a cheap phone immediately,0.49867296,0.4275085,0.89004904,980,aggressive_queries
+I'm a student looking for a phone that can handle my hobbies,0.44368815,0.3930277,0.9990738,980,storytelling_queries
+storage,0.3994288,0.36995098,1.0740827,980,long_queries
+durability,0.36908266,0.3470766,1.1536523,980,long_queries
+battery,0.43811852,0.38994712,1.0077554,980,long_queries
+Nokia phone with good 5G under 25000,0.6364424,0.44917354,0.8311299,980,product_search
+how to optimize my phone,0.47286722,0.40939716,0.9486312,980,non_product_search
+5G,0.5137026,0.42648897,0.8981475,980,long_queries
+how to optimize my phone,0.47286722,0.40939716,0.9486312,980,non_product_search
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries
+I'm a gamer looking for a phone that can support my workflow,0.44590044,0.4000724,0.9763977,980,storytelling_queries
+phone that can teleport,0.4181417,0.37256917,1.0663061,980,kidding_queries
+Realme phone with good performance above 50000,0.66692364,0.45331797,0.8288013,980,product_search
+Tecno phone with good display under 30000,0.57156557,0.44015583,0.854229,980,product_search
+performance,0.4130915,0.37666476,1.0513046,980,long_queries
+best themes for Nokia,0.48633203,0.38516492,1.0251763,980,non_product_search
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+durability,0.36908266,0.3470766,1.1536523,980,short_queries
+Show me the best phone immediately,0.47869954,0.40780592,0.95275635,980,aggressive_queries
+Show me a good phone right away,0.46622002,0.3937625,0.99703413,980,aggressive_queries
+I'm a gamer looking for a phone that can handle my hobbies,0.45825556,0.4062009,0.95697063,980,storytelling_queries
+Xiaomi phone with good design under 30000,0.6172865,0.45146412,0.82881415,980,product_search
+I need a cheap phone now,0.49684912,0.42941564,0.8843898,980,aggressive_queries
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+price,0.49581966,0.43206125,0.8751933,980,long_queries
+best games for Xiaomi,0.5488819,0.3921843,1.012144,980,non_product_search
+phone tips,0.41745898,0.36704645,1.0851486,980,non_product_search
+battery,0.43811852,0.38994712,1.0077554,980,short_queries
+I'm a photographer looking for a phone that can manage my hobbies,0.46193033,0.39111534,1.0058342,980,storytelling_queries
+gaming,0.3973958,0.3501127,1.1437359,980,long_queries
+I'm a photographer looking for a phone that can handle my hobbies,0.47411576,0.39750734,0.9856593,980,storytelling_queries
+display,0.3807574,0.3565223,1.1203425,980,long_queries
+Give me a cheap phone immediately,0.49867296,0.4275085,0.89004904,980,aggressive_queries
+phone that can do homework,0.45169425,0.3882975,1.0149176,980,kidding_queries
+Nokia,0.5757035,0.4097775,0.9486352,980,short_queries
+how to optimize my phone,0.47286722,0.40939716,0.9486312,980,non_product_search
+phone that can cook food,0.40421355,0.36220175,1.1011564,980,kidding_queries
+display,0.3807574,0.3565223,1.1203425,980,short_queries
+phone that can predict future,0.456522,0.39562234,0.99114925,980,kidding_queries

@@ -1,0 +1,6 @@
+
+Recommended Thresholds:
+------------------------
+top_score_thresh     = 0.5038
+avg_score_thresh     = 0.3948
+centroid_thresh      = 1.0498
